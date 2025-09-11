@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi! 🤗
 
-<!--
-**michalskawiktoria/michalskawiktoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩🏻‍💻 I’m currently working on: 
+  - creating my first portfolio
+  - finishing my master's degree in Data Science @RBS in Rome, Italy
 
-Here are some ideas to get you started:
+🌱 I’m currently learning:
+  - Python
+  - SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on: 
+  - literally ANYTHING
+
+📫 How to reach me:
+  - ig: @wimichalska
+  - email: wiktoria.wmichalska@gmail.com
+
+⚡ Fun fact:
+  - I'm fun and that's a fact
