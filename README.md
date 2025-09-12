@@ -1,7 +1,7 @@
 ## Hi! 🤗
 
 👩🏻‍💻 I’m currently working on: 
-  - creating my first portfolio
+  - a RPG, where your reality turns into a playable game... Will you be able to win and escape? Or maybe you will loose and get stuck forever???
   - finishing my master's degree in Data Science @RBS in Rome, Italy
 
 🌱 I’m currently learning:
