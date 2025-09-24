@@ -1,7 +1,7 @@
 ## Hi! 🤗
 
 👩🏻‍💻 I’m currently working on: 
-  - a RPG, where your reality turns into a playable game... Will you be able to win and escape? Or maybe you will loose and get stuck forever???
+  - a webapp that overlay data from the Blue Cloud on a map where users can interact with it
   - finishing my master's degree in Data Science
 
 
