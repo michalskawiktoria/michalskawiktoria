@@ -1,7 +1,7 @@
 ## Hi! 🤗
 
 👩🏻‍💻 I’m currently working on: 
-  - a webapp that overlay data from the Blue Cloud on a map where users can interact with it
+  - a personal budget sheet
   - finishing my master's degree in Data Science
 
 
