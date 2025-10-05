@@ -1,7 +1,7 @@
 ## Hi! 🤗
 
 👩🏻‍💻 I’m currently working on: 
-  - a personal budget sheet
+  - economics analysis of an italian logistics company
   - finishing my master's degree in Data Science
 
 
