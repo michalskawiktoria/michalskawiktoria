@@ -1,7 +1,7 @@
 ## Hi! 🤗
 
 👩🏻‍💻 I’m currently working on: 
-  - personal budget spreadsheet
+  - ETH Hackathon project
   - finishing my master's degree in Data Science
 
 
