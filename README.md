@@ -1,7 +1,7 @@
 ## Hi! 🤗
 
 👩🏻‍💻 I’m currently working on: 
-  - ETH Hackathon project
+  - the passengers of Titanic analysis
   - finishing my master's degree in Data Science
 
 
