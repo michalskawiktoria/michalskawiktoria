@@ -6,7 +6,7 @@
 
 
 🌱 I’m currently learning:
-  - Python
+  - MS Access
   - SQL
     
 
