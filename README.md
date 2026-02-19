@@ -17,7 +17,7 @@
 📫 How to reach me:
   - ig: @wimichalska
   - email: wiktoria.wmichalska@gmail.com
-  - wwww: https://lingwika.com/wiktoria-michalska
+  - www: https://lingwika.com/wiktoria-michalska
   - linkedin: https://www.linkedin.com/in/wiktoria-michalska-27b78b31a/
 
 
